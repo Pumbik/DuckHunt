@@ -1,0 +1,21 @@
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\bin\Debug\Quacker Hunter.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\bin\Debug\Quacker Hunter.exe
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\bin\Debug\Quacker Hunter.pdb
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker Hunter.csprojResolveAssemblyReference.cache
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker_Hunter.GameWind.resources
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker_Hunter.Properties.Resources.resources
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker Hunter.csproj.GenerateResource.Cache
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker Hunter.exe
+C:\Users\mmver\Downloads\Програмирование C#\quacker-hunter-master\src\Quacker Hunter\obj\Debug\Quacker Hunter.pdb
+D:\MyProj\DuckHunt\Quacker Hunter\bin\Debug\Quacker Hunter.exe.config
+D:\MyProj\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.exe
+D:\MyProj\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.pdb
+D:\ToGit\DuckHunt\Quacker Hunter\bin\Debug\Quacker Hunter.exe.config
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.exe
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.pdb
+D:\ToGit\DuckHunt\Quacker Hunter\bin\Debug\Quacker Hunter.exe
+D:\ToGit\DuckHunt\Quacker Hunter\bin\Debug\Quacker Hunter.pdb
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.csprojResolveAssemblyReference.cache
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker_Hunter.GameWind.resources
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker_Hunter.Properties.Resources.resources
+D:\ToGit\DuckHunt\Quacker Hunter\obj\Debug\Quacker Hunter.csproj.GenerateResource.Cache
